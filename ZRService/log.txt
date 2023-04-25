@@ -1,0 +1,826 @@
+28/01/10 16:52;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:19:23;DRIVER={SQL Server};SERVER=MSQL4;DATABASE=zrwebservice;UID=zrsws;PWD=142420
+02/02/10 19:20:26;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:21:01;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:22:44;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:23:21;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:25:07;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:54:50;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:58:31;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 19:59:01;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:03:03;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:03:07;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:09:33;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:09:45;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:09:49;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:10:28;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:10:31;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:17:49;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:18:05;dsn=kems_oraxe;UID=kems;PWD=kems
+02/02/10 20:18:08;dsn=kems_oraxe;UID=kems;PWD=kems
+10/02/10 14:04:16;dsn=kems_oraxe;UID=kems;PWD=kems
+10/02/10 14:06:47;dsn=kems_oraxe;UID=kems;PWD=kems
+10/02/10 14:07:50;dsn=kems_oraxe;UID=kems;PWD=kems
+10/02/10 15:03:56;dsn=kems_oraxe;UID=kems;PWD=kems
+10/02/10 15:04:38;dsn=kems_oraxe;UID=kems;PWD=kems
+10/05/12 13:47:10;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 14:39:25;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 14:52:41;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 14:58:44;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 15:33:22;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 15:41:57;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 16:16:43;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 16:23:15;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 16:37:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 16:39:09;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 17:03:48;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 17:08:43;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 17:11:44;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 18:10:27;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 18:52:50;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/05/12 19:10:25;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 10:14:15;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 11:29:15;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 11:40:13;Object reference not set to an instance of an object.¤
+11/05/12 11:40:14;Object reference not set to an instance of an object.¤
+11/05/12 11:40:14;Object reference not set to an instance of an object.¤
+11/05/12 11:40:14;Object reference not set to an instance of an object.¤
+11/05/12 11:40:14;Object reference not set to an instance of an object.¤
+11/05/12 11:40:14;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:15;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:16;Object reference not set to an instance of an object.¤
+11/05/12 11:40:17;Object reference not set to an instance of an object.¤
+11/05/12 11:40:17;Object reference not set to an instance of an object.¤
+11/05/12 11:40:17;Object reference not set to an instance of an object.¤
+11/05/12 11:40:17;Object reference not set to an instance of an object.¤
+11/05/12 11:40:17;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:18;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:19;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:20;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:21;Object reference not set to an instance of an object.¤
+11/05/12 11:40:22;Object reference not set to an instance of an object.¤
+11/05/12 11:40:22;Object reference not set to an instance of an object.¤
+11/05/12 11:40:22;Object reference not set to an instance of an object.¤
+11/05/12 11:40:22;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:23;Object reference not set to an instance of an object.¤
+11/05/12 11:40:24;Object reference not set to an instance of an object.¤
+11/05/12 11:40:24;Object reference not set to an instance of an object.¤
+11/05/12 11:40:24;Object reference not set to an instance of an object.¤
+11/05/12 11:40:24;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:25;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:26;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:27;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:28;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:29;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:30;Object reference not set to an instance of an object.¤
+11/05/12 11:40:31;Object reference not set to an instance of an object.¤
+11/05/12 11:40:31;Object reference not set to an instance of an object.¤
+11/05/12 11:40:31;Object reference not set to an instance of an object.¤
+11/05/12 11:40:31;Object reference not set to an instance of an object.¤
+11/05/12 11:40:31;Object reference not set to an instance of an object.¤
+11/05/12 11:40:32;Object reference not set to an instance of an object.¤
+11/05/12 11:40:32;Object reference not set to an instance of an object.¤
+11/05/12 11:40:32;Object reference not set to an instance of an object.¤
+11/05/12 11:40:32;Object reference not set to an instance of an object.¤
+11/05/12 11:40:32;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:33;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:34;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:35;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:36;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 11:40:37;Object reference not set to an instance of an object.¤
+11/05/12 12:09:45;Object reference not set to an instance of an object.¤
+11/05/12 12:09:45;Object reference not set to an instance of an object.¤
+11/05/12 12:21:09;Object reference not set to an instance of an object.¤
+11/05/12 12:21:10;Object reference not set to an instance of an object.¤
+11/05/12 17:36:00;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 17:36:00;Object reference not set to an instance of an object.¤
+11/05/12 17:36:00;Object reference not set to an instance of an object.¤
+11/05/12 18:02:03;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 18:02:35;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 18:04:12;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 18:05:36;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/05/12 18:40:05;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/05/12 09:51:01;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/05/12 10:01:57;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/05/12 11:42:54;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/05/12 16:14:20;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/05/12 16:37:30;Object reference not set to an instance of an object.¤
+14/05/12 16:37:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 16:37:45;Object reference not set to an instance of an object.¤
+14/05/12 16:37:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 16:42:12;Object reference not set to an instance of an object.¤
+14/05/12 16:42:12;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 16:42:27;Object reference not set to an instance of an object.¤
+14/05/12 16:42:27;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 16:58:46;Object reference not set to an instance of an object.¤
+14/05/12 16:58:46;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 17:04:37;Object reference not set to an instance of an object.¤
+14/05/12 17:04:37;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 17:04:46;Object reference not set to an instance of an object.¤
+14/05/12 17:04:46;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 17:07:59;Object reference not set to an instance of an object.¤
+14/05/12 17:07:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/05/12 17:08:09;Object reference not set to an instance of an object.¤
+14/05/12 17:08:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:22:02;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+16/05/12 17:28:56;Object reference not set to an instance of an object.¤
+16/05/12 17:28:56;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:28:56;Object reference not set to an instance of an object.¤
+16/05/12 17:28:56;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:28:57;Object reference not set to an instance of an object.¤
+16/05/12 17:28:57;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:29:30;Object reference not set to an instance of an object.¤
+16/05/12 17:29:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:29:30;Object reference not set to an instance of an object.¤
+16/05/12 17:29:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:29:30;Object reference not set to an instance of an object.¤
+16/05/12 17:29:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:31:19;Object reference not set to an instance of an object.¤
+16/05/12 17:31:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:31:19;Object reference not set to an instance of an object.¤
+16/05/12 17:31:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:31:20;Object reference not set to an instance of an object.¤
+16/05/12 17:31:20;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:33:22;Object reference not set to an instance of an object.¤
+16/05/12 17:33:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:33:22;Object reference not set to an instance of an object.¤
+16/05/12 17:33:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:33:23;Object reference not set to an instance of an object.¤
+16/05/12 17:33:23;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:43:46;Object reference not set to an instance of an object.¤
+16/05/12 17:43:46;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:43:46;Object reference not set to an instance of an object.¤
+16/05/12 17:43:46;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 17:43:47;Object reference not set to an instance of an object.¤
+16/05/12 17:43:47;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:00:35;Object reference not set to an instance of an object.¤
+16/05/12 18:00:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:00:35;Object reference not set to an instance of an object.¤
+16/05/12 18:00:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:00:36;Object reference not set to an instance of an object.¤
+16/05/12 18:00:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:01:34;Object reference not set to an instance of an object.¤
+16/05/12 18:01:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:01:34;Object reference not set to an instance of an object.¤
+16/05/12 18:01:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:01:34;Object reference not set to an instance of an object.¤
+16/05/12 18:01:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:08;Object reference not set to an instance of an object.¤
+16/05/12 18:03:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:08;Object reference not set to an instance of an object.¤
+16/05/12 18:03:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:09;Object reference not set to an instance of an object.¤
+16/05/12 18:03:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:48;Object reference not set to an instance of an object.¤
+16/05/12 18:03:48;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:48;Object reference not set to an instance of an object.¤
+16/05/12 18:03:48;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:03:49;Object reference not set to an instance of an object.¤
+16/05/12 18:03:49;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:17:58;Object reference not set to an instance of an object.¤
+16/05/12 18:17:58;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:17:58;Object reference not set to an instance of an object.¤
+16/05/12 18:17:58;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 18:17:59;Object reference not set to an instance of an object.¤
+16/05/12 18:17:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+16/05/12 19:18:40;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+16/05/12 19:26:24;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 10:08:40;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 11:39:41;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 11:39:41;Object reference not set to an instance of an object.¤
+17/05/12 11:39:41;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:39:41;Object reference not set to an instance of an object.¤
+17/05/12 11:39:41;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:39:41;Object reference not set to an instance of an object.¤
+17/05/12 11:39:41;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:39:41;Object reference not set to an instance of an object.¤
+17/05/12 11:39:41;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:40:14;Object reference not set to an instance of an object.¤
+17/05/12 11:40:14;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:40:14;Object reference not set to an instance of an object.¤
+17/05/12 11:40:14;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:40:14;Object reference not set to an instance of an object.¤
+17/05/12 11:40:14;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:40:15;Object reference not set to an instance of an object.¤
+17/05/12 11:40:15;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:09;Object reference not set to an instance of an object.¤
+17/05/12 11:56:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:09;Object reference not set to an instance of an object.¤
+17/05/12 11:56:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:09;Object reference not set to an instance of an object.¤
+17/05/12 11:56:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:10;Object reference not set to an instance of an object.¤
+17/05/12 11:56:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:28;Object reference not set to an instance of an object.¤
+17/05/12 11:56:28;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:28;Object reference not set to an instance of an object.¤
+17/05/12 11:56:28;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:28;Object reference not set to an instance of an object.¤
+17/05/12 11:56:28;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:56:29;Object reference not set to an instance of an object.¤
+17/05/12 11:56:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:57:43;Object reference not set to an instance of an object.¤
+17/05/12 11:57:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:57:43;Object reference not set to an instance of an object.¤
+17/05/12 11:57:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:57:43;Object reference not set to an instance of an object.¤
+17/05/12 11:57:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 11:57:43;Object reference not set to an instance of an object.¤
+17/05/12 11:57:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:38;Object reference not set to an instance of an object.¤
+17/05/12 12:07:38;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:38;Object reference not set to an instance of an object.¤
+17/05/12 12:07:38;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:38;Object reference not set to an instance of an object.¤
+17/05/12 12:07:38;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:38;Object reference not set to an instance of an object.¤
+17/05/12 12:07:38;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:49;Object reference not set to an instance of an object.¤
+17/05/12 12:07:49;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:49;Object reference not set to an instance of an object.¤
+17/05/12 12:07:49;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:50;Object reference not set to an instance of an object.¤
+17/05/12 12:07:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 12:07:50;Object reference not set to an instance of an object.¤
+17/05/12 12:07:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 14:43:35;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 14:43:35;Object reference not set to an instance of an object.¤
+17/05/12 14:43:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 14:43:35;Object reference not set to an instance of an object.¤
+17/05/12 14:43:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 14:43:35;Object reference not set to an instance of an object.¤
+17/05/12 14:43:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 14:43:36;Object reference not set to an instance of an object.¤
+17/05/12 14:43:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:17:30;Object reference not set to an instance of an object.¤
+17/05/12 15:17:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:17:31;Object reference not set to an instance of an object.¤
+17/05/12 15:17:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:17:31;Object reference not set to an instance of an object.¤
+17/05/12 15:17:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:17:31;Object reference not set to an instance of an object.¤
+17/05/12 15:17:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:46:34;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 15:46:34;Object reference not set to an instance of an object.¤
+17/05/12 15:46:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:46:35;Object reference not set to an instance of an object.¤
+17/05/12 15:46:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:46:35;Object reference not set to an instance of an object.¤
+17/05/12 15:46:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:46:35;Object reference not set to an instance of an object.¤
+17/05/12 15:46:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:48:51;Object reference not set to an instance of an object.¤
+17/05/12 15:48:51;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:48:51;Object reference not set to an instance of an object.¤
+17/05/12 15:48:51;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:48:51;Object reference not set to an instance of an object.¤
+17/05/12 15:48:51;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:48:51;Object reference not set to an instance of an object.¤
+17/05/12 15:48:51;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:50:36;Object reference not set to an instance of an object.¤
+17/05/12 15:50:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:50:37;Object reference not set to an instance of an object.¤
+17/05/12 15:50:37;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:50:37;Object reference not set to an instance of an object.¤
+17/05/12 15:50:37;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:50:50;Object reference not set to an instance of an object.¤
+17/05/12 15:50:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:52:19;Object reference not set to an instance of an object.¤
+17/05/12 15:52:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:52:19;Object reference not set to an instance of an object.¤
+17/05/12 15:52:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:52:19;Object reference not set to an instance of an object.¤
+17/05/12 15:52:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:52:47;Object reference not set to an instance of an object.¤
+17/05/12 15:52:47;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:56:49;Object reference not set to an instance of an object.¤
+17/05/12 15:56:49;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:56:50;Object reference not set to an instance of an object.¤
+17/05/12 15:56:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:56:50;Object reference not set to an instance of an object.¤
+17/05/12 15:56:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:56:50;Object reference not set to an instance of an object.¤
+17/05/12 15:56:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:59:56;Object reference not set to an instance of an object.¤
+17/05/12 15:59:56;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:59:57;Object reference not set to an instance of an object.¤
+17/05/12 15:59:57;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 15:59:57;Object reference not set to an instance of an object.¤
+17/05/12 15:59:57;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:00:38;Object reference not set to an instance of an object.¤
+17/05/12 16:00:38;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:02:09;Object reference not set to an instance of an object.¤
+17/05/12 16:02:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:02:09;Object reference not set to an instance of an object.¤
+17/05/12 16:02:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:02:10;Object reference not set to an instance of an object.¤
+17/05/12 16:02:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:02:13;Object reference not set to an instance of an object.¤
+17/05/12 16:02:13;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:03:36;Object reference not set to an instance of an object.¤
+17/05/12 16:03:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:03:36;Object reference not set to an instance of an object.¤
+17/05/12 16:03:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:03:36;Object reference not set to an instance of an object.¤
+17/05/12 16:03:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:03:42;Object reference not set to an instance of an object.¤
+17/05/12 16:03:42;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:05:22;Object reference not set to an instance of an object.¤
+17/05/12 16:05:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:05:22;Object reference not set to an instance of an object.¤
+17/05/12 16:05:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:05:23;Object reference not set to an instance of an object.¤
+17/05/12 16:05:23;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:05:23;Object reference not set to an instance of an object.¤
+17/05/12 16:05:23;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:06:28;Object reference not set to an instance of an object.¤
+17/05/12 16:06:28;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:06:29;Object reference not set to an instance of an object.¤
+17/05/12 16:06:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:06:29;Object reference not set to an instance of an object.¤
+17/05/12 16:06:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:06:29;Object reference not set to an instance of an object.¤
+17/05/12 16:06:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:07:54;Object reference not set to an instance of an object.¤
+17/05/12 16:07:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:07:54;Object reference not set to an instance of an object.¤
+17/05/12 16:07:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:07:54;Object reference not set to an instance of an object.¤
+17/05/12 16:07:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:07:55;Object reference not set to an instance of an object.¤
+17/05/12 16:07:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:09:02;Object reference not set to an instance of an object.¤
+17/05/12 16:09:02;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:09:02;Object reference not set to an instance of an object.¤
+17/05/12 16:09:02;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:09:02;Object reference not set to an instance of an object.¤
+17/05/12 16:09:02;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:09:03;Object reference not set to an instance of an object.¤
+17/05/12 16:09:03;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:19:54;Object reference not set to an instance of an object.¤
+17/05/12 16:19:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:19:54;Object reference not set to an instance of an object.¤
+17/05/12 16:19:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:19:54;Object reference not set to an instance of an object.¤
+17/05/12 16:19:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 16:19:54;Object reference not set to an instance of an object.¤
+17/05/12 16:19:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:10:21;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 17:10:22;Object reference not set to an instance of an object.¤
+17/05/12 17:10:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:10:22;Object reference not set to an instance of an object.¤
+17/05/12 17:10:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:10:22;Object reference not set to an instance of an object.¤
+17/05/12 17:10:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:10:22;Object reference not set to an instance of an object.¤
+17/05/12 17:10:22;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:55:23;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 17:55:23;Object reference not set to an instance of an object.¤
+17/05/12 17:55:23;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:55:24;Object reference not set to an instance of an object.¤
+17/05/12 17:55:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:55:24;Object reference not set to an instance of an object.¤
+17/05/12 17:55:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:55:24;Object reference not set to an instance of an object.¤
+17/05/12 17:55:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:57:16;Object reference not set to an instance of an object.¤
+17/05/12 17:57:16;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:57:16;Object reference not set to an instance of an object.¤
+17/05/12 17:57:16;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:57:16;Object reference not set to an instance of an object.¤
+17/05/12 17:57:16;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:57:16;Object reference not set to an instance of an object.¤
+17/05/12 17:57:16;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:59:45;Object reference not set to an instance of an object.¤
+17/05/12 17:59:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:59:45;Object reference not set to an instance of an object.¤
+17/05/12 17:59:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:59:45;Object reference not set to an instance of an object.¤
+17/05/12 17:59:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 17:59:45;Object reference not set to an instance of an object.¤
+17/05/12 17:59:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:08:27;Object reference not set to an instance of an object.¤
+17/05/12 18:08:27;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:08:27;Object reference not set to an instance of an object.¤
+17/05/12 18:08:27;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:08:27;Object reference not set to an instance of an object.¤
+17/05/12 18:08:27;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:08:28;Object reference not set to an instance of an object.¤
+17/05/12 18:08:28;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:35:19;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+17/05/12 18:35:20;Object reference not set to an instance of an object.¤
+17/05/12 18:35:20;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:35:21;Object reference not set to an instance of an object.¤
+17/05/12 18:35:21;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:35:21;Object reference not set to an instance of an object.¤
+17/05/12 18:35:21;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:35:21;Object reference not set to an instance of an object.¤
+17/05/12 18:35:21;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:36:25;Object reference not set to an instance of an object.¤
+17/05/12 18:36:25;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:36:25;Object reference not set to an instance of an object.¤
+17/05/12 18:36:25;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:36:25;Object reference not set to an instance of an object.¤
+17/05/12 18:36:25;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+17/05/12 18:36:26;Object reference not set to an instance of an object.¤
+17/05/12 18:36:26;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 09:50:43;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 10:21:33;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 10:56:10;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 14:53:28;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 14:53:28;Object reference not set to an instance of an object.¤
+18/05/12 14:53:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:53:29;Object reference not set to an instance of an object.¤
+18/05/12 14:53:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:53:29;Object reference not set to an instance of an object.¤
+18/05/12 14:53:29;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:53:30;Object reference not set to an instance of an object.¤
+18/05/12 14:53:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:56:50;Object reference not set to an instance of an object.¤
+18/05/12 14:56:50;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:56:51;Object reference not set to an instance of an object.¤
+18/05/12 14:56:51;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:56:52;Object reference not set to an instance of an object.¤
+18/05/12 14:56:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 14:56:53;Object reference not set to an instance of an object.¤
+18/05/12 14:56:53;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+18/05/12 16:12:56;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 17:01:04;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+18/05/12 19:03:16;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+21/05/12 11:05:24;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+21/05/12 13:03:41;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+21/05/12 16:18:09;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+21/05/12 16:18:09;Object reference not set to an instance of an object.¤
+21/05/12 16:18:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:18:10;Object reference not set to an instance of an object.¤
+21/05/12 16:18:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:18:10;Object reference not set to an instance of an object.¤
+21/05/12 16:18:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:18:10;Object reference not set to an instance of an object.¤
+21/05/12 16:18:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:13;Object reference not set to an instance of an object.¤
+21/05/12 16:20:13;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:13;Object reference not set to an instance of an object.¤
+21/05/12 16:20:13;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:13;Object reference not set to an instance of an object.¤
+21/05/12 16:20:13;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:13;Object reference not set to an instance of an object.¤
+21/05/12 16:20:13;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:54;Object reference not set to an instance of an object.¤
+21/05/12 16:20:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:54;Object reference not set to an instance of an object.¤
+21/05/12 16:20:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:54;Object reference not set to an instance of an object.¤
+21/05/12 16:20:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:20:54;Object reference not set to an instance of an object.¤
+21/05/12 16:20:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:21:40;Object reference not set to an instance of an object.¤
+21/05/12 16:21:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:21:40;Object reference not set to an instance of an object.¤
+21/05/12 16:21:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:21:40;Object reference not set to an instance of an object.¤
+21/05/12 16:21:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:21:40;Object reference not set to an instance of an object.¤
+21/05/12 16:21:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:23:19;Object reference not set to an instance of an object.¤
+21/05/12 16:23:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:23:19;Object reference not set to an instance of an object.¤
+21/05/12 16:23:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:23:19;Object reference not set to an instance of an object.¤
+21/05/12 16:23:19;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:23:20;Object reference not set to an instance of an object.¤
+21/05/12 16:23:20;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:30:43;Object reference not set to an instance of an object.¤
+21/05/12 16:30:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:30:43;Object reference not set to an instance of an object.¤
+21/05/12 16:30:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:30:43;Object reference not set to an instance of an object.¤
+21/05/12 16:30:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 16:30:44;Object reference not set to an instance of an object.¤
+21/05/12 16:30:44;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:33:00;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+21/05/12 17:33:01;Object reference not set to an instance of an object.¤
+21/05/12 17:33:01;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:33:01;Object reference not set to an instance of an object.¤
+21/05/12 17:33:01;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:33:01;Object reference not set to an instance of an object.¤
+21/05/12 17:33:01;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:33:01;Object reference not set to an instance of an object.¤
+21/05/12 17:33:01;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:35:59;Object reference not set to an instance of an object.¤
+21/05/12 17:35:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:35:59;Object reference not set to an instance of an object.¤
+21/05/12 17:35:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:35:59;Object reference not set to an instance of an object.¤
+21/05/12 17:35:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:36:00;Object reference not set to an instance of an object.¤
+21/05/12 17:36:00;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:40:03;Object reference not set to an instance of an object.¤
+21/05/12 17:40:03;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:40:03;Object reference not set to an instance of an object.¤
+21/05/12 17:40:03;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:40:04;Object reference not set to an instance of an object.¤
+21/05/12 17:40:04;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:40:04;Object reference not set to an instance of an object.¤
+21/05/12 17:40:04;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:41:59;Object reference not set to an instance of an object.¤
+21/05/12 17:41:59;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:42:00;Object reference not set to an instance of an object.¤
+21/05/12 17:42:00;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:42:00;Object reference not set to an instance of an object.¤
+21/05/12 17:42:00;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+21/05/12 17:42:00;Object reference not set to an instance of an object.¤
+21/05/12 17:42:00;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+22/05/12 09:58:47;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+22/05/12 11:03:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/05/12 14:18:40;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/05/12 14:18:40;Object reference not set to an instance of an object.¤
+23/05/12 14:18:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 14:18:40;Object reference not set to an instance of an object.¤
+23/05/12 14:18:40;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 14:18:41;Object reference not set to an instance of an object.¤
+23/05/12 14:18:41;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 14:18:42;Object reference not set to an instance of an object.¤
+23/05/12 14:18:42;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:17:34;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/05/12 15:17:34;Object reference not set to an instance of an object.¤
+23/05/12 15:17:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:17:34;Object reference not set to an instance of an object.¤
+23/05/12 15:17:34;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:17:35;Object reference not set to an instance of an object.¤
+23/05/12 15:17:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:17:35;Object reference not set to an instance of an object.¤
+23/05/12 15:17:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:43:54;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/05/12 15:43:54;Object reference not set to an instance of an object.¤
+23/05/12 15:43:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:43:54;Object reference not set to an instance of an object.¤
+23/05/12 15:43:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:43:55;Object reference not set to an instance of an object.¤
+23/05/12 15:43:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:43:55;Object reference not set to an instance of an object.¤
+23/05/12 15:43:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:44:30;Object reference not set to an instance of an object.¤
+23/05/12 15:44:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:44:30;Object reference not set to an instance of an object.¤
+23/05/12 15:44:30;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:44:31;Object reference not set to an instance of an object.¤
+23/05/12 15:44:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:44:31;Object reference not set to an instance of an object.¤
+23/05/12 15:44:31;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:48:24;Object reference not set to an instance of an object.¤
+23/05/12 15:48:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:48:24;Object reference not set to an instance of an object.¤
+23/05/12 15:48:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:48:24;Object reference not set to an instance of an object.¤
+23/05/12 15:48:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:48:24;Object reference not set to an instance of an object.¤
+23/05/12 15:48:24;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:18;Object reference not set to an instance of an object.¤
+23/05/12 15:57:18;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:18;Object reference not set to an instance of an object.¤
+23/05/12 15:57:18;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:18;Object reference not set to an instance of an object.¤
+23/05/12 15:57:18;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:18;Object reference not set to an instance of an object.¤
+23/05/12 15:57:18;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:54;Object reference not set to an instance of an object.¤
+23/05/12 15:57:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:54;Object reference not set to an instance of an object.¤
+23/05/12 15:57:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:54;Object reference not set to an instance of an object.¤
+23/05/12 15:57:54;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 15:57:55;Object reference not set to an instance of an object.¤
+23/05/12 15:57:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 16:06:10;Object reference not set to an instance of an object.¤
+23/05/12 16:06:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 16:06:10;Object reference not set to an instance of an object.¤
+23/05/12 16:06:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 16:06:11;Object reference not set to an instance of an object.¤
+23/05/12 16:06:11;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 16:06:12;Object reference not set to an instance of an object.¤
+23/05/12 16:06:12;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:18:08;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/05/12 18:18:08;Object reference not set to an instance of an object.¤
+23/05/12 18:18:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:18:08;Object reference not set to an instance of an object.¤
+23/05/12 18:18:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:18:09;Object reference not set to an instance of an object.¤
+23/05/12 18:18:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:18:09;Object reference not set to an instance of an object.¤
+23/05/12 18:18:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:32:52;Object reference not set to an instance of an object.¤
+23/05/12 18:32:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:32:52;Object reference not set to an instance of an object.¤
+23/05/12 18:32:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:32:52;Object reference not set to an instance of an object.¤
+23/05/12 18:32:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:32:53;Object reference not set to an instance of an object.¤
+23/05/12 18:32:53;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:35:52;Object reference not set to an instance of an object.¤
+23/05/12 18:35:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:35:52;Object reference not set to an instance of an object.¤
+23/05/12 18:35:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:35:52;Object reference not set to an instance of an object.¤
+23/05/12 18:35:52;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:35:53;Object reference not set to an instance of an object.¤
+23/05/12 18:35:53;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:38:09;Object reference not set to an instance of an object.¤
+23/05/12 18:38:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:38:09;Object reference not set to an instance of an object.¤
+23/05/12 18:38:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:38:09;Object reference not set to an instance of an object.¤
+23/05/12 18:38:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:38:10;Object reference not set to an instance of an object.¤
+23/05/12 18:38:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:43:55;Object reference not set to an instance of an object.¤
+23/05/12 18:43:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:43:55;Object reference not set to an instance of an object.¤
+23/05/12 18:43:55;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:43:56;Object reference not set to an instance of an object.¤
+23/05/12 18:43:56;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+23/05/12 18:43:56;Object reference not set to an instance of an object.¤
+23/05/12 18:43:56;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+24/05/12 10:04:48;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+24/05/12 11:02:59;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+24/05/12 11:24:35;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+24/05/12 11:24:35;Object reference not set to an instance of an object.¤
+24/05/12 11:24:35;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+24/05/12 11:24:36;Object reference not set to an instance of an object.¤
+24/05/12 11:24:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+24/05/12 11:24:36;Object reference not set to an instance of an object.¤
+24/05/12 11:24:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+24/05/12 11:24:36;Object reference not set to an instance of an object.¤
+24/05/12 11:24:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+24/05/12 11:24:36;Object reference not set to an instance of an object.¤
+24/05/12 11:24:36;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+25/05/12 14:35:53;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/05/12 15:09:56;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/05/12 15:59:45;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/05/12 17:00:29;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/05/12 17:49:36;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+29/05/12 11:23:21;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+29/05/12 18:42:50;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+31/05/12 16:10:05;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+01/06/12 12:13:43;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+01/06/12 12:13:43;Object reference not set to an instance of an object.¤
+01/06/12 12:13:43;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 12:13:44;Object reference not set to an instance of an object.¤
+01/06/12 12:13:44;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 12:13:44;Object reference not set to an instance of an object.¤
+01/06/12 12:13:44;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 12:13:45;Object reference not set to an instance of an object.¤
+01/06/12 12:13:45;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 12:13:46;Object reference not set to an instance of an object.¤
+01/06/12 12:13:46;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 16:46:35;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+01/06/12 16:47:06;Object reference not set to an instance of an object.¤
+01/06/12 16:47:06;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 16:47:06;Object reference not set to an instance of an object.¤
+01/06/12 16:47:06;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 16:47:06;Object reference not set to an instance of an object.¤
+01/06/12 16:47:06;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+01/06/12 16:47:07;Object reference not set to an instance of an object.¤
+01/06/12 16:47:07;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+05/06/12 15:28:49;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+07/06/12 17:25:41;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+07/06/12 18:23:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/06/12 17:43:23;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+13/06/12 17:53:05;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/06/12 14:50:32;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+14/06/12 14:59:08;Object reference not set to an instance of an object.¤
+14/06/12 14:59:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/06/12 14:59:08;Object reference not set to an instance of an object.¤
+14/06/12 14:59:08;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/06/12 14:59:09;Object reference not set to an instance of an object.¤
+14/06/12 14:59:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/06/12 14:59:09;Object reference not set to an instance of an object.¤
+14/06/12 14:59:09;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+14/06/12 14:59:10;Object reference not set to an instance of an object.¤
+14/06/12 14:59:10;Object reference not set to an instance of an object. connstring=dsn=zrws;UID=zrsws;PWD=142420
+15/06/12 11:34:48;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+20/06/12 18:30:26;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/06/12 17:47:23;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/06/12 21:00:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+25/06/12 21:46:52;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+26/06/12 10:51:16;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+26/06/12 16:41:02;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+26/06/12 17:13:08;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+27/06/12 16:07:57;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+27/06/12 16:51:44;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+03/07/12 15:04:51;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+03/07/12 15:34:41;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+09/07/12 20:13:28;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+12/07/12 15:14:26;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+19/07/12 15:14:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/07/12 15:33:26;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+23/07/12 17:37:58;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+27/07/12 12:12:12;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+27/07/12 12:35:39;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+02/08/12 10:47:56;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+02/08/12 16:07:25;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+02/08/12 17:22:08;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+16/08/12 16:13:46;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+16/08/12 16:48:34;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+27/08/12 16:31:37;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+28/08/12 00:03:21;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+28/08/12 09:47:05;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+28/08/12 10:31:10;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+28/08/12 12:46:53;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+28/08/12 14:57:03;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+06/09/12 14:14:54;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+10/09/12 11:40:59;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+11/09/12 19:02:13;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
+13/09/12 19:57:35;Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\danem\WSDB' is denied.
